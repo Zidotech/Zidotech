@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/zidotech" target="blank"><img src="https://img.shields.io/twitter/follow/zidotech?logo=twitter&style=for-the-badge" alt="zidotech" /></a> </p>
 
-- 🌱 I’m currently learning **React-Redux**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://zulu-portfolio.netlify.app/](https://zulu-portfolio.netlify.app/)
 
