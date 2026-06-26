@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React-Native**
 
-- 👨‍💻 All of my projects are available at [https://zulu-portfolio.netlify.app/](https://zulu-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [zido/](https://zido-port.vercel.app/)
 
 - 📫 How to reach me **zulu.devs@gmail.com**
 
